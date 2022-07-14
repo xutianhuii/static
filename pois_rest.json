@@ -1,0 +1,26 @@
+[
+    {
+        "coord": "113.305458,23.121013",
+        "title": "黄焖鸡米饭",
+        "passengerFlow": 16,
+        "open": "是"
+    },
+    {
+        "coord": "113.340058,23.150613",
+        "title": "张亮麻辣烫",
+        "passengerFlow": 23,
+        "open": "否"
+    },
+    {
+        "coord": "113.300458,23.109613",
+        "title": "K记餐厅",
+        "passengerFlow": 7,
+        "open": "是"
+    },
+    {
+        "coord": "113.330458,23.149613",
+        "title": "星巴克",
+        "passengerFlow": 17,
+        "open": "是"
+    }
+]
